@@ -1,2 +1,2 @@
 # xbmc.repo.h2olove
-đang test để xem phim miễn phí
+đang test xem phim miễn phí
